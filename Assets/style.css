@@ -24,7 +24,7 @@ body {
     align-items: center;
     justify-content: center;
 
-    background: url(/Assets/img/hack.gif);
+    background: url(./img/hack.gif);
     background-size: cover;
     background-repeat: no-repeat;
 
